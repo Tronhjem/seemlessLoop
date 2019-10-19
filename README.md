@@ -1,10 +1,11 @@
-# seemless loops
+# Seemless loop maker
 
-commandline python tool to take tail after specified loop length
+This is a commandline python tool to take tail after specified loop length
 and apply it to the beginning.
-This was loops will loop without any clicks.
+This allows music loops to loop seemless, if there's a lot of reverb or tail after the loop is ended.
 
-install:
+# Install:
+
 make sure pydub is installed:
 pip install pydub
 
